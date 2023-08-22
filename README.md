@@ -1,6 +1,8 @@
 ### Saludos terrícolas 👋
 
 - 🌱 Estoy aprendiendo a ser Analista de Datos. Me ha llamado poderosamente la atención las herramientas de Tableau y RStudio.
+- 🌱 En breve empezaré con el Postgrado de Ciencia de Datos por la UAM.
+- ⚡ Fun fact: soy el gato al que la curiosidad intenta matar. 
 
 ### Nos vemos por ahí 🖖
 
