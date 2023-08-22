@@ -1,4 +1,8 @@
-### Hi there 👋
+### Saludos terrícolas 👋
+
+- 🌱 Estoy aprendiendo a ser Analista de Datos. Me ha llamado poderosamente la atención las herramientas de Tableau y RStudio.
+
+### Nos vemos por ahí 🖖
 
 <!--
 **Donettello/Donettello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
