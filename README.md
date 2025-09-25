@@ -1,7 +1,7 @@
 ### Saludos terrícolas 👋
 Tengo el certificado de Analista de Datos por Google
-- 🌱 Tengo el certificado de Analista de Datos por Google. Ahí adquirí los conocimientos para el manejo RStudio y Tableau.
-- 🌱 Estoy de lleno con el Postgrado de Ciencia de Datos por la UAM.
+- 🌱 Certificado de Analista de Datos por Google. Ahí adquirí los conocimientos para el manejo RStudio y Tableau.
+- 🌱 Poseo el título Máster en Ciencia de Datos por la UAM.
 - ⚡ Fun fact: soy el gato al que la curiosidad intenta matar. 
 
 ### Nos vemos por ahí 🖖
